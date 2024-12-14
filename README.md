@@ -61,5 +61,3 @@ Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber T
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
 
 ---
-
-Se precisar que eu edite ou formate de outra forma, posso ajustar!
