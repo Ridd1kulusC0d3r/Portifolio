@@ -1,7 +1,4 @@
 # Portifolio
-Aqui está um modelo de página para o seu repositório no GitHub que pode servir como seu cartão de visitas:
-
----
 
 # **Deivison Lourenço**
 
