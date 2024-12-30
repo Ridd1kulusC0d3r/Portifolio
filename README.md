@@ -121,41 +121,7 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
   <a href="mailto:deivsec@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-<div>
-  <!-- Descrição -->
-  <!-- Outras redes sociais centralizadas -->
-  <div style="text-align: center; margin-top: 20px;">
-    <p><strong>Outras redes sociais:</strong></p>
 
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-      <!-- YouTube -->
-      <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-      </a>
-
-      <!-- Instagram -->
-      <a href="https://www.instagram.com/deivisonlourencos" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-      </a>
-
-      <!-- GitHub -->
-      <a href="https://github.com/Ridd1kulusC0d3r" target="_blank">
-        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-
-      <!-- Medium -->
-      <a href="https://medium.com/@deivsec" target="_blank">
-        <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-      </a>
-
-      <!-- Twitter (X) -->
-      <a href="https://x.com/psideivison" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter_(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)">
-      </a>
-    </div>
-  </div>
-</div>
- </a>
 ---
 <div> 
   <!-- YouTube -->
