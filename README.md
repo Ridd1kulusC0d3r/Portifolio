@@ -82,21 +82,9 @@ Pesquisador em Psicologia                :active,  2016-09-01,2050-01-01
 Pesquisador em Investigação Digital      :active,  2024-06-01,2050-01-01
 Psicólogo Clínico                        :active,  2021-06-01,2050-01-01
 
-%% Definir estilos personalizados para tarefas
+%% Estilo para tarefas concluídas
 classDef done fill:#8E44AD,stroke:#2C3E50,stroke-width:2px;
-classDef active fill:#28B463,stroke:#154360,stroke-width:2px;
 
-%% Aplicar estilos às tarefas
-class Especialista_em_suporte_a_sistemas done;
-class Analista_de_GMUD/Qualidade done;
-class Especialista_em_Cybersecurity done;
-class SOC_Analyst done;
-class TechLead_Cybersecurity done;
-class Coordenador_de_Cybersecurity done;
-class Cybersecurity_Mentor done;
-class Professor_acadêmico done;
-class Pesquisador_em_Psicologia active;
-class Pesquisador_em_Investigação_Digital active;
-class Psicólogo_Clínico active;
-class Head_of_Cyber_Research active;
+%% Estilo para tarefas ativas
+classDef active fill:#28B463,stroke:#154360,stroke-width:2px;
 ```
