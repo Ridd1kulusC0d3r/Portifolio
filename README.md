@@ -60,8 +60,6 @@ Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber T
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
 
-```mermaid
-
 gantt
 dateFormat  YYYY-MM-DD
 title Minha carreira atualmente
@@ -86,7 +84,16 @@ Psicólogo Clínico                        :active,  2021-06-01,2050-01-01
 classDef done fill:#8E44AD,stroke:#2C3E50,stroke-width:2px;
 classDef active fill:#28B463,stroke:#154360,stroke-width:2px;
 
-%% Associar estilos às tarefas
-class Especialista_em_suporte_a_sistemas,Analista_de_GMUD/Qualidade,Especialista_em_Cybersecurity,SOC_Analyst,TechLead_Cybersecurity,Coordenador_de_Cybersecurity,Cybersecurity_Mentor,Professor_acadêmico done;
-class Pesquisador_em_Psicologia,Pesquisador_em_Investigação_Digital,Psicólogo_Clínico,Head_of_Cyber_Research active;
-```
+%% Aplicar estilos às tarefas
+class Especialista_em_suporte_a_sistemas done;
+class Analista_de_GMUD/Qualidade done;
+class Especialista_em_Cybersecurity done;
+class SOC_Analyst done;
+class TechLead_Cybersecurity done;
+class Coordenador_de_Cybersecurity done;
+class Cybersecurity_Mentor done;
+class Professor_acadêmico done;
+class Pesquisador_em_Psicologia active;
+class Pesquisador_em_Investigação_Digital active;
+class Psicólogo_Clínico active;
+class Head_of_Cyber_Research active;
