@@ -128,6 +128,49 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
   </a>
   
   <!-- GitHub -->
+
+  <div>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+
+  <!-- AI -->
+  <a href="https://openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/-AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+  </a>
+
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  
+  <!-- Notepad++ -->
+  <a href="https://notepad-plus-plus.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="Notepad++">
+  </a>
+
+  <!-- Visual Studio -->
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+  </a>
+
+  <!-- Blackbox -->
+  <a href="https://www.useblackbox.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Blackbox-000000?style=for-the-badge&logo=blackbox&logoColor=white" alt="Blackbox">
+  </a>
+
+  <!-- ChatGPT -->
+  <a href="https://openai.com/chatgpt" target="_blank">
+    <img src="https://img.shields.io/badge/-ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
+  </a>
+
+  <!-- PyCharm -->
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  </a>
+</div>
+
   <a href="https://github.com/Ridd1kulusC0d3r" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
