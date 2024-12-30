@@ -22,9 +22,9 @@ Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber T
 - **Especialista em suporte a sistemas** - (06/2015 a 09/2018)
 
 ### **Acadêmico**
-- **Psicólogo Clínico** - (desde 06/2021)
 - **Pesquisador em Investigação Digital** - (desde 06/2024)
 - **Pesquisador em Psicologia** - (desde 09/2016)
+- **Psicólogo Clínico** - (desde 06/2021)
 - **Professor acadêmico** - (09/2022 a 06/2024)
 - **Cybersecurity Mentor** - (08/2022 a 06/2026)
 
