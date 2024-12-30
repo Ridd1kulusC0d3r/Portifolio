@@ -175,3 +175,37 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+
+
+
+<div>
+  <!-- Python -->
+  <img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+  <!-- AI -->
+  <img src="https://img.shields.io/badge/AI-30%25-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI">
+
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-100%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+  <!-- R -->
+  <img src="https://img.shields.io/badge/R-100%25-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+
+  <!-- PHP -->
+  <img src="https://img.shields.io/badge/PHP-100%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+
+  <!-- Go -->
+  <img src="https://img.shields.io/badge/Go-100%25-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+
+  <!-- Bash -->
+  <img src="https://img.shields.io/badge/Bash-100%25-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+
+  <!-- PowerShell -->
+  <img src="https://img.shields.io/badge/PowerShell-100%25-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+
+  <!-- Shell Script -->
+  <img src="https://img.shields.io/badge/Shell_Script-100%25-89E051?style=for-the-badge&logo=shell&logoColor=black" alt="Shell Script">
+
+  <!-- Lua -->
+  <img src="https://img.shields.io/badge/Lua-100%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+</div>
