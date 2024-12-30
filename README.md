@@ -60,6 +60,8 @@ Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber T
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
 
+```mermaid
+
 gantt
 dateFormat  YYYY-MM-DD
 title Minha carreira atualmente
@@ -97,3 +99,4 @@ class Pesquisador_em_Psicologia active;
 class Pesquisador_em_Investigação_Digital active;
 class Psicólogo_Clínico active;
 class Head_of_Cyber_Research active;
+```
