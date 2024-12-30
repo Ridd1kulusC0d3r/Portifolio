@@ -117,6 +117,9 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
 
+Outras redes sociais
+
+<div>
   <!-- Segunda lista: Outras redes sociais -->
   <!-- YouTube -->
   <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
