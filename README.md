@@ -11,6 +11,45 @@ Bem-vindo ao meu cartão de visitas digital! Aqui você encontrará informaçõe
 Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber Threat Intelligence, com formação acadêmica em Psicologia e Tecnologia em Redes de Computadores. Minhas áreas de interesse incluem análise de comportamento, OSINT, SOCMINT, investigações digitais e inteligência cibernética. Além disso, realizo pesquisas e estudos nas áreas de psicologia aplicada à tecnologia e comportamento humano.
 
 ---
+## **Carreira**
+### **Profissional**
+- **Head of Cyber Research** - (desde 10/2024)
+- **Coordenador de Cybersecurity** - (05/2022 a 10/2024)
+- **TechLead Cybersecurity** - (12/2021 a 05/2022)
+- **SOC Analyst** - (08/2021 a 12/2021)
+- **Especialista em Cybersecurity** - (04/2021 a 08/2021)
+- **Analista de GMUD/Qualidade** - (01/2019 a 04/2021)
+- **Especialista em suporte a sistemas** - (06/2015 a 09/2018)
+
+### **Acadêmico**
+- **Psicólogo Clínico** - (desde 06/2021)
+- **Pesquisador em Investigação Digital** - (desde 06/2024)
+- **Pesquisador em Psicologia** - (desde 09/2016)
+- **Professor acadêmico** - (09/2022 a 06/2024)
+- **Cybersecurity Mentor** - (08/2022 a 06/2026)
+
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title Minha carreira atualmente
+
+section Carreira
+Especialista em suporte a sistemas       :done,    2015-06-01,2018-09-01
+Analista de GMUD/Qualidade               :done,    2019-01-01,2021-04-01
+Especialista em Cybersecurity            :done,    2021-04-01,2021-08-10
+SOC Analyst                              :done,    2021-08-01,2021-12-20
+TechLead Cybersecurity                   :done,    2021-12-20,2022-05-08
+Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
+Head of Cyber Research                   :active,  2024-10-01,2026-01-01
+
+section Acadêmico
+Cybersecurity Mentor                     :done,    2022-08-01,2026-06-30
+Professor acadêmico                      :done,    2022-09-01,2024-06-30
+Pesquisador em Psicologia                :active,  2016-09-01,2026-01-01
+Pesquisador em Investigação Digital      :active,  2024-06-01,2026-01-01
+Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
+```
 
 ## **Formação Acadêmica**
 
@@ -60,25 +99,4 @@ Sou especialista em Inteligência Cibernética, Investigação Digital e Cyber T
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
 
-```mermaid
 
-gantt
-dateFormat  YYYY-MM-DD
-title Minha carreira atualmente
-
-section Carreira
-Especialista em suporte a sistemas       :done,    2015-06-01,2018-09-01
-Analista de GMUD/Qualidade               :done,    2019-01-01,2021-04-01
-Especialista em Cybersecurity            :done,    2021-04-01,2021-08-10
-SOC Analyst                              :done,    2021-08-01,2021-12-20
-TechLead Cybersecurity                   :done,    2021-12-20,2022-05-08
-Coordenador de Cybersecurity             :done,    2022-05-08,2024-10-01
-Head of Cyber Research                   :active,  2024-10-01,2050-01-01
-
-section Acadêmico
-Cybersecurity Mentor                     :done,    2022-08-01,2024-06-30
-Professor acadêmico                      :done,    2022-09-01,2024-06-30
-Pesquisador em Psicologia                :active,  2016-09-01,2050-01-01
-Pesquisador em Investigação Digital      :active,  2024-06-01,2050-01-01
-Psicólogo Clínico                        :active,  2021-06-01,2050-01-01
-```
