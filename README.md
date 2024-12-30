@@ -99,6 +99,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 ---
 
 Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
+
 <div>
   <!-- Lista 1: Contato direto -->
   <div style="margin-bottom: 20px;">
@@ -124,37 +125,10 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
   <div>
     <p><strong>Outras redes sociais:</strong></p>
 
-    <!-- YouTube -->
-    <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/deivisonlourencos" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/deivisonlourencos/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a> 
-
-    <!-- GitHub -->
-    <a href="https://github.com/Ridd1kulusC0d3r" target="_blank">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-
-    <!-- Medium -->
-    <a href="https://medium.com/@deivsec" target="_blank">
-      <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-    </a>
-
-    <!-- Twitter (X) -->
-    <a href="https://x.com/psideivison" target="_blank">
-      <img src="https://img.shields.io/badge/-Twitter_(X)-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)">
-    </a>
-  </div>
-</div>
+    <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+      <!-- YouTube -->
+      <a href="https://www.youtube.com/playlist?list=PL2ZxeW1VQqpMaPkDxwK-rCK5adHsHtQAi" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-b
 
 ---
 <div> 
