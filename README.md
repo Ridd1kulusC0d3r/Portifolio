@@ -121,7 +121,8 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
   <a href="mailto:deivsec@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
-
+<div>
+  <!-- Descrição -->
   <!-- Outras redes sociais centralizadas -->
   <div style="text-align: center; margin-top: 20px;">
     <p><strong>Outras redes sociais:</strong></p>
@@ -154,7 +155,7 @@ Sinta-se à vontade para explorar meu trabalho e entrar em contato! 😊
     </div>
   </div>
 </div>
-
+ </a>
 ---
 <div> 
   <!-- YouTube -->
