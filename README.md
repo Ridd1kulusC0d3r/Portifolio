@@ -52,10 +52,11 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 ```
 
 ## **Formação Acadêmica**
+### **Cursando**
+- **Especialização em Inteligência Cibernética** - WB Educacional
+- **Comportamento Não Verbal e Análise de Credibilidade** - ClueLab/FACSM Faculdade São Marcos
 
 ### **Concluídas**
-- **Especialização em Inteligência Cibernética** - WB Educacional
-- **Comportamento Não Verbal e Análise de Credibilidade** - ClueLab/FACSM Faculdade São Marcos *(Em andamento)*
 - **Especialização em Investigação Digital** - WB Educacional
 - **Especialização em CTI - Cyber Threat Intelligence** - Daryus
 - **Bacharel em Psicologia** - Faculdade Pitágoras (FPAS)
@@ -64,7 +65,7 @@ Psicólogo Clínico                        :active,  2021-06-01,2026-01-01
 - **Técnico em Informática** - Faculdade Pitágoras (FPAS)
 
 ### **Trancadas**
-- **Psicologia Fenomenológica-Existencial** - (2021) - IPOG
+- **Psicologia Fenomenológica-Existencial** - (2021) - Faveni 
 - **Criminal Profiling** - (2022) - Blue Ead
 - **Psicanálise e Clínica Contemporânea: Sujeito, Sofrimento e Intervenções** - (2023) - IPOG
 
