@@ -90,5 +90,3 @@ classDef active fill:#28B463,stroke:#154360,stroke-width:2px;
 class Especialista_em_suporte_a_sistemas,Analista_de_GMUD/Qualidade,Especialista_em_Cybersecurity,SOC_Analyst,TechLead_Cybersecurity,Coordenador_de_Cybersecurity,Cybersecurity_Mentor,Professor_acadêmico done;
 class Pesquisador_em_Psicologia,Pesquisador_em_Investigação_Digital,Psicólogo_Clínico,Head_of_Cyber_Research active;
 ```
-
----
