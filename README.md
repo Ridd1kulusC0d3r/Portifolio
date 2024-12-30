@@ -81,10 +81,4 @@ Professor acadêmico                      :done,    2022-09-01,2024-06-30
 Pesquisador em Psicologia                :active,  2016-09-01,2050-01-01
 Pesquisador em Investigação Digital      :active,  2024-06-01,2050-01-01
 Psicólogo Clínico                        :active,  2021-06-01,2050-01-01
-
-%% Estilo para tarefas concluídas
-classDef done fill:#8E44AD,stroke:#2C3E50,stroke-width:2px;
-
-%% Estilo para tarefas ativas
-classDef active fill:#28B463,stroke:#154360,stroke-width:2px;
 ```
